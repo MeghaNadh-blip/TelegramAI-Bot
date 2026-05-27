@@ -39,7 +39,7 @@ llm_config = {
 thinker= AssistantAgent(
     name="Thinker",
     llm_config=llm_config,
-    system_message="Replay shortly in max line required."
+    system_message="Analyze the user message and provide a detailed analysis with the provided context ."
 
 )
 
@@ -47,7 +47,7 @@ thinker= AssistantAgent(
 writer=AssistantAgent(
     name="Writter",
     llm_config=llm_config,
-    system_message="Replay shortly in max 10 lines."
+    system_message="Based on the user message and the analysis provided by thinker agent, generate a concise and relevant response to the user."
 )
 
 #cbatbot Function
