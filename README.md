@@ -115,8 +115,7 @@ python3 app.py
 **Meghanadh Sai Nalluri**
 
 * GitHub: [https://github.com/MeghaNadh-blip](https://github.com/MeghaNadh-blip)
-* LinkedIn: [https://www.linkedin.com/in/meghanadh-nalluri-942b97322](https://www.linkedin.com/in/meghanadhsai-nalluri-942b97322)
-
+* LinkedIn: [https://www.linkedin.com/in/meghanadh-nalluri-942b97322/](https://www.linkedin.com/in/meghanadh-nalluri-942b97322/)
 ---
 
 ## ⭐ Support
