@@ -1,5 +1,3 @@
-
-````markdown
 # 🤖 TelegramAI-Bot
 
 An AI-powered Telegram chatbot built using Python and Groq LLM APIs.  
